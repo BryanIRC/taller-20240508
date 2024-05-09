@@ -1,6 +1,6 @@
-## ![Imagen](src/media/cambio.png) Conversor de Medidas **_v1.0_**
+## ![Imagen](src/media/cambio.png) Conversor de Medidas **_v1.1_**
 
-### Funcion: Este programa, en su versión 1.0 hace conversiones de divisas y volumenes, directamente, desde y hacia cualquier medida dentro de las opciones:
+### Funcion: Este programa, en su versión 1.1 hace conversiones de divisas y volumenes, directamente, desde y hacia cualquier medida dentro de las opciones:
 
 ##
 
@@ -35,6 +35,7 @@
 <p><b>Resultado = Valor a convertir * Equivalencia de la medida entrante / Equivalencia de la medida saliente</p></b>
 
 ##
+
 <br>
 
 ![Imagen](https://img.shields.io/badge/STATUS-EN_DESAROLLO-orange)
