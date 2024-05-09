@@ -35,8 +35,6 @@
 <p><b>Resultado = Valor a convertir * Equivalencia de la medida entrante / Equivalencia de la medida saliente</p></b>
 
 ##
-
-![Imagen](src/media/github.png) @BryanIRC ![Imagen](src/media/IG.jpeg) @Bryanir16
 <br>
 
 ![Imagen](https://img.shields.io/badge/STATUS-EN_DESAROLLO-orange)
